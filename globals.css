@@ -1,0 +1,84 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+* {
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+}
+html,
+body {
+    margin: 0px;
+    min-height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+    outline: 2px solid #4a90e2 !important;
+    outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+    text-decoration: none;
+}
+/* @FONTWARNING[{"type": "restricted", "family": "Inter-Medium", "weight": "500", "style": "normal", "allowsCrossOrigin": false}] */
+
+@font-face {
+    font-family: "Inter-Medium";
+    src: local("Inter-Medium");
+}
+/* @FONTWARNING[{"type": "restricted", "family": "Inter-Black", "weight": "900", "style": "normal", "allowsCrossOrigin": false}] */
+
+@font-face {
+    font-family: "Inter-Black";
+    src: local("Inter-Black");
+}
+/* @FONTWARNING[{"type": "restricted", "family": "Inter-Thin", "weight": "100", "style": "normal", "allowsCrossOrigin": false}] */
+
+@font-face {
+    font-family: "Inter-Thin";
+    src: local("Inter-Thin");
+}
+/* @FONTWARNING[{"type": "restricted", "family": "Inter-Light", "weight": "300", "style": "normal", "allowsCrossOrigin": false}] */
+
+@font-face {
+    font-family: "Inter-Light";
+    src: local("Inter-Light");
+}
+/* @FONTWARNING[{"type": "restricted", "family": "Beatrice Deck Trial-Extrabold", "weight": "400", "style": "normal", "allowsCrossOrigin": false}] */
+
+@font-face {
+    font-family: "Beatrice Deck Trial-Extrabold";
+    src: local("Beatrice Deck Trial-Extrabold");
+}
+/* @FONTWARNING[{"type": "restricted", "family": "Beatrice Deck Trial-Regular", "weight": "400", "style": "normal", "allowsCrossOrigin": false}] */
+
+@font-face {
+    font-family: "Beatrice Deck Trial-Regular";
+    src: local("Beatrice Deck Trial-Regular");
+}
+/* @FONTWARNING[{"type": "restricted", "family": "Beatrice Deck Trial-Medium", "weight": "500", "style": "normal", "allowsCrossOrigin": false}] */
+
+@font-face {
+    font-family: "Beatrice Deck Trial-Medium";
+    src: local("Beatrice Deck Trial-Medium");
+}
+/* @FONTWARNING[{"type": "restricted", "family": "Beatrice Trial-Regular", "weight": "400", "style": "normal", "allowsCrossOrigin": false}] */
+
+@font-face {
+    font-family: "Beatrice Trial-Regular";
+    src: local("Beatrice Trial-Regular");
+}
+/* @FONTWARNING[{"type": "restricted", "family": "Beatrice Headline Trial-Medium", "weight": "500", "style": "normal", "allowsCrossOrigin": false}] */
+
+@font-face {
+    font-family: "Beatrice Headline Trial-Medium";
+    src: local("Beatrice Headline Trial-Medium");
+}
+/* @FONTWARNING[{"type": "restricted", "family": "Beatrice Deck Trial-Light", "weight": "300", "style": "normal", "allowsCrossOrigin": false}] */
+
+@font-face {
+    font-family: "Beatrice Deck Trial-Light";
+    src: local("Beatrice Deck Trial-Light");
+}
+/* @FONTWARNING[{"type": "restricted", "family": "Beatrice Trial-Light", "weight": "300", "style": "normal", "allowsCrossOrigin": false}] */
+
+@font-face {
+    font-family: "Beatrice Trial-Light";
+    src: local("Beatrice Trial-Light");
+}

@@ -1,0 +1,1629 @@
+.home {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 100%;
+    min-width: 1280px;
+    height: 3998px;
+    position: relative;
+}
+
+.home .footer {
+    position: absolute;
+    top: 3370px;
+    left: -80px;
+    width: 1440px;
+    height: 628px;
+    background-color: #f5f5f5;
+}
+
+.home .frame {
+    display: flex;
+    width: 827px;
+    align-items: flex-start;
+    position: absolute;
+    top: 607px;
+    left: 605px;
+}
+
+.home .text-wrapper {
+    position: relative;
+    flex: 1;
+    margin-top: -1px;
+    opacity: 0.4;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #1e1e1e;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: 13px;
+}
+
+.home .div {
+    display: flex;
+    width: 469px;
+    align-items: flex-start;
+    justify-content: space-between;
+    position: relative;
+}
+
+.home .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.4;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #1e1e1e;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: 13px;
+    white-space: nowrap;
+}
+
+.home .terms {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.4;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #dfdfdf;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: 13px;
+    white-space: nowrap;
+}
+
+.home .frame-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    position: absolute;
+    top: 126px;
+    left: 605px;
+}
+
+.home .technologies {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.4;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #1e1e1e;
+    font-size: 10px;
+    letter-spacing: 0.4px;
+    line-height: 13px;
+    white-space: nowrap;
+}
+
+.home .technologies-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.home .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter-Black", Helvetica;
+    font-weight: 900;
+    color: #ececec;
+    font-size: 80px;
+    letter-spacing: -1.6px;
+    line-height: 88px;
+    white-space: nowrap;
+}
+
+.home .frame-3 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 16px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.home .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter-Black", Helvetica;
+    font-weight: 900;
+    color: #000000;
+    font-size: 80px;
+    letter-spacing: -1.6px;
+    line-height: 88px;
+    white-space: nowrap;
+}
+
+.home .text-wrapper-5 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.4;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #1e1e1e;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 15.6px;
+    white-space: nowrap;
+}
+
+.home .text-wrapper-6 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.2;
+    font-family: "Inter-Thin", Helvetica;
+    font-weight: 100;
+    color: #1e1e1e;
+    font-size: 56px;
+    letter-spacing: -1.12px;
+    line-height: 61.6px;
+    white-space: nowrap;
+}
+
+.home .text-wrapper-7 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Black", Helvetica;
+    font-weight: 900;
+    color: #000000;
+    font-size: 80px;
+    letter-spacing: -1.6px;
+    line-height: 88px;
+    white-space: nowrap;
+}
+
+.home .section {
+    top: 279px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    position: absolute;
+    left: 247px;
+}
+
+.home .text-wrapper-8 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.4;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0.4px;
+    line-height: 14px;
+    white-space: nowrap;
+}
+
+.home .div-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.home .frame-4 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.home .text-wrapper-9 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.6;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: -0.24px;
+    line-height: 16.8px;
+    white-space: nowrap;
+}
+
+.home .text-wrapper-10 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.2;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: -0.24px;
+    line-height: 16.8px;
+    white-space: nowrap;
+}
+
+.home .sve {
+    position: relative;
+    width: fit-content;
+    opacity: 0.6;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: -0.24px;
+    line-height: 16.8px;
+    white-space: nowrap;
+}
+
+.home .section-2 {
+    top: 126px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    position: absolute;
+    left: 247px;
+}
+
+.home .text-wrapper-11 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.6;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 15.6px;
+    white-space: nowrap;
+}
+
+.home .text-wrapper-12 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.2;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 15.6px;
+    white-space: nowrap;
+}
+
+.home .contacts {
+    position: relative;
+    width: fit-content;
+    opacity: 0.6;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 15.6px;
+    white-space: nowrap;
+}
+
+.home .to-top {
+    position: absolute;
+    top: 556px;
+    left: 8px;
+    width: 64px;
+    height: 64px;
+    display: flex;
+    gap: 611px;
+    border-radius: 64px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #000000;
+}
+
+.home .icon {
+    margin-top: -3485px;
+    width: 12px;
+    height: 16px;
+    margin-left: -623px;
+}
+
+.home .border {
+    margin-top: 64px;
+    width: 64px;
+    height: 1px;
+    background-color: #000000;
+}
+
+.home .group {
+    position: absolute;
+    top: 178px;
+    left: 605px;
+    width: 47px;
+    height: 47px;
+}
+
+.home .rectangle {
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    width: 33px;
+    height: 33px;
+    background-color: #d9d9d9;
+    transform: rotate(45deg);
+}
+
+.home .img {
+    position: absolute;
+    top: 0;
+    left: 24px;
+    width: 24px;
+    height: 47px;
+}
+
+.home .new-collection {
+    position: absolute;
+    top: 386px;
+    left: 50px;
+    font-family: "Beatrice Deck Trial-Extrabold", Helvetica;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 40px;
+    color: #000000;
+    letter-spacing: 2px;
+}
+
+.home .MEN-WOMEN-KIDS {
+    position: absolute;
+    top: 156px;
+    left: 50px;
+    font-family: "Beatrice Deck Trial-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 2px;
+    line-height: normal;
+}
+
+.home .group-2 {
+    position: absolute;
+    top: 61px;
+    left: 112px;
+    width: 274px;
+    height: 24px;
+    display: flex;
+    gap: 32px;
+}
+
+.home .text-wrapper-13 {
+    width: 55px;
+    height: 24px;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 2px;
+    line-height: normal;
+}
+
+.home .text-wrapper-14 {
+    width: 111px;
+    height: 24px;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 2px;
+    line-height: normal;
+}
+
+.home .text-wrapper-15 {
+    width: 38px;
+    height: 24px;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: normal;
+    color: #000000;
+    letter-spacing: 2px;
+}
+
+.home .group-wrapper {
+    position: absolute;
+    top: 50px;
+    left: 1180px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+    border-radius: 25px;
+}
+
+.home .group-3 {
+    position: relative;
+    width: 24.00%;
+    height: 25.71%;
+    top: 38.00%;
+    left: 37.48%;
+}
+
+.home .vector {
+    position: absolute;
+    width: 69.64%;
+    height: 65.00%;
+    top: -5.83%;
+    left: 15.18%;
+    border-radius: 4.18px;
+    border: 1.5px solid;
+    border-color: #ffffff;
+}
+
+.home .vector-2 {
+    position: absolute;
+    width: 106.25%;
+    height: 32.50%;
+    top: 67.50%;
+    left: -6.25%;
+}
+
+.home .div-wrapper {
+    position: absolute;
+    top: 50px;
+    left: 921px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+    border-radius: 25px;
+}
+
+.home .vector-wrapper {
+    position: relative;
+    width: 43.31%;
+    height: 42.95%;
+    top: 28.00%;
+    left: 30.00%;
+    display: flex;
+}
+
+.home .vector-3 {
+    flex: 1;
+    width: 16.77px;
+}
+
+.home .group-4 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 50px;
+    left: 1088px;
+}
+
+.home .rectangle-2 {
+    position: absolute;
+    top: 50px;
+    left: 1017px;
+    width: 76px;
+    height: 50px;
+    background-color: #000000;
+    border-radius: 22px;
+}
+
+.home .text-wrapper-16 {
+    position: absolute;
+    top: 66px;
+    left: 1037px;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 2px;
+    line-height: normal;
+}
+
+.home .group-5 {
+    position: absolute;
+    top: 722px;
+    left: 50px;
+    width: 267px;
+    height: 40px;
+}
+
+.home .rectangle-3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 265px;
+    height: 40px;
+    background-color: #d9d9d9;
+}
+
+.home .vector-4 {
+    position: absolute;
+    width: 26.12%;
+    height: 66.88%;
+    top: 33.12%;
+    left: 73.88%;
+}
+
+.home .text-wrapper-17 {
+    position: absolute;
+    top: 8px;
+    left: 27px;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .img-wrapper {
+    position: absolute;
+    width: 3.12%;
+    height: 0;
+    top: 18.06%;
+    left: 31.80%;
+    display: flex;
+    border: 1px solid;
+    border-color: #a2a2a2;
+}
+
+.home .vector-5 {
+    flex: 1;
+    width: 7px;
+}
+
+.home .group-6 {
+    position: absolute;
+    width: 3.12%;
+    height: 0;
+    top: 18.06%;
+    left: 27.73%;
+    display: flex;
+    border: 1px solid;
+    border-color: #a2a2a2;
+    opacity: 0.66;
+}
+
+.home .vector-6 {
+    flex: 1;
+    width: 6px;
+}
+
+.home .summer {
+    position: absolute;
+    top: 474px;
+    left: 50px;
+    font-family: "Beatrice Deck Trial-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 2px;
+    line-height: normal;
+}
+
+.home .group-7 {
+    position: absolute;
+    top: 242px;
+    left: 50px;
+    width: 369px;
+    height: 50px;
+}
+
+.home .rectangle-4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 367px;
+    height: 50px;
+    background-color: #d9d9d9;
+    border-radius: 2px;
+}
+
+.home .group-8 {
+    position: absolute;
+    width: 3.88%;
+    height: 28.67%;
+    top: 36.00%;
+    left: 4.34%;
+}
+
+.home .vector-7 {
+    position: absolute;
+    width: 105.47%;
+    height: 105.46%;
+    top: -5.23%;
+    left: -5.23%;
+    border-radius: 7.56px;
+    border: 1.5px solid;
+    border-color: #000000;
+}
+
+.home .vector-8 {
+    position: absolute;
+    width: 22.73%;
+    height: 22.73%;
+    top: 77.27%;
+    left: 77.27%;
+}
+
+.home .text-wrapper-18 {
+    position: absolute;
+    top: 17px;
+    left: 285px;
+    font-family: "Beatrice Deck Trial-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000a8;
+    font-size: 12px;
+    letter-spacing: 2px;
+    line-height: normal;
+}
+
+.home .noisy-background {
+    position: absolute;
+    width: 101.48%;
+    height: 41.62%;
+    top: 83.24%;
+    left: 0;
+    mix-blend-mode: luminosity;
+}
+
+.home .grain-texture {
+    position: absolute;
+    width: 98.92%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    mix-blend-mode: soft-light;
+}
+
+.home .grain-texture-2 {
+    width: 155.50%;
+    height: 24.94%;
+    top: 75.06%;
+    left: -55.50%;
+    position: absolute;
+    mix-blend-mode: soft-light;
+}
+
+.home .noisy-background-2 {
+    top: 41.62%;
+    position: absolute;
+    width: 101.48%;
+    height: 41.62%;
+    left: 0;
+    mix-blend-mode: luminosity;
+}
+
+.home .grain-texture-3 {
+    width: 98.92%;
+    height: 50.00%;
+    top: 50.00%;
+    left: 0;
+    position: absolute;
+    mix-blend-mode: soft-light;
+}
+
+.home .noisy-background-3 {
+    top: 0;
+    position: absolute;
+    width: 101.48%;
+    height: 41.62%;
+    left: 0;
+    mix-blend-mode: luminosity;
+}
+
+.home .grain-texture-4 {
+    width: 98.54%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    mix-blend-mode: soft-light;
+}
+
+.home .grain-texture-5 {
+    width: 98.54%;
+    height: 50.00%;
+    top: 50.00%;
+    left: 0;
+    position: absolute;
+    mix-blend-mode: soft-light;
+}
+
+.home .rectangle-5 {
+    position: absolute;
+    top: 386px;
+    left: 457px;
+    width: 366px;
+    height: 376px;
+}
+
+.home .rectangle-6 {
+    position: absolute;
+    top: 386px;
+    left: 864px;
+    width: 366px;
+    height: 376px;
+    object-fit: cover;
+}
+
+.home .text-wrapper-19 {
+    top: 2010px;
+    left: 1310px;
+    font-size: 14px;
+    position: absolute;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-20 {
+    top: 1831px;
+    left: 1162px;
+    text-decoration: underline;
+    position: absolute;
+    font-family: "Beatrice Trial-Regular", Helvetica;
+    font-weight: 400;
+    color: #5d5d5d;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+}
+
+.home .group-9 {
+    position: absolute;
+    top: 973px;
+    left: calc(50.00% - 590px);
+    width: 1218px;
+    height: 1343px;
+}
+
+.home .XIV-collections {
+    position: absolute;
+    top: 603px;
+    left: calc(50.00% - 605px);
+    font-family: "Beatrice Deck Trial-Extrabold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 2px;
+    line-height: 40px;
+}
+
+.home .line {
+    top: 811px;
+    left: 0;
+    width: 1180px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+}
+
+.home .all {
+    position: absolute;
+    top: 768px;
+    left: 0;
+    font-family: "Beatrice Headline Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+}
+
+.home .text-wrapper-21 {
+    position: absolute;
+    top: 768px;
+    left: 79px;
+    font-family: "Beatrice Trial-Regular", Helvetica;
+    font-weight: 400;
+    color: #8a8a8a;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+}
+
+.home .text-wrapper-22 {
+    position: absolute;
+    top: 768px;
+    left: 155px;
+    font-family: "Beatrice Trial-Regular", Helvetica;
+    font-weight: 400;
+    color: #8a8a8a;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+}
+
+.home .text-wrapper-23 {
+    position: absolute;
+    top: 728px;
+    left: 915px;
+    font-family: "Beatrice Trial-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+}
+
+.home .text-wrapper-24 {
+    position: absolute;
+    top: 728px;
+    left: 1086px;
+    font-family: "Beatrice Trial-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+}
+
+.home .text-wrapper-25 {
+    position: absolute;
+    top: 753px;
+    left: 1086px;
+    font-family: "Beatrice Trial-Regular", Helvetica;
+    font-weight: 400;
+    color: #5d5d5d;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+}
+
+.home .text-wrapper-26 {
+    top: 0;
+    left: 1131px;
+    text-align: right;
+    position: absolute;
+    font-family: "Beatrice Trial-Regular", Helvetica;
+    font-weight: 400;
+    color: #5d5d5d;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+}
+
+.home .text-wrapper-27 {
+    position: absolute;
+    top: 773px;
+    left: 1087px;
+    font-family: "Beatrice Trial-Regular", Helvetica;
+    font-weight: 400;
+    color: #5d5d5d;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+}
+
+.home .text-wrapper-28 {
+    position: absolute;
+    top: 768px;
+    left: 259px;
+    font-family: "Beatrice Trial-Regular", Helvetica;
+    font-weight: 400;
+    color: #8a8a8a;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+}
+
+.home .group-10 {
+    position: absolute;
+    height: 2.98%;
+    top: 97.02%;
+    left: calc(50.00% - 40px);
+    width: 45px;
+}
+
+.home .vector-9 {
+    position: absolute;
+    height: 20.00%;
+    top: 80.00%;
+    left: calc(50.00% - 10px);
+    width: 16px;
+}
+
+.home .text-wrapper-29 {
+    position: absolute;
+    top: 0;
+    left: calc(50.00% - 22px);
+    font-family: "Beatrice Trial-Regular", Helvetica;
+    font-weight: 400;
+    color: #8a8a8a;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+}
+
+.home .text-wrapper-30 {
+    top: 1237px;
+    left: 0;
+    position: absolute;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000a8;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .cotton-jeans {
+    top: 1237px;
+    left: 407px;
+    position: absolute;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000a8;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-31 {
+    top: 1237px;
+    left: 814px;
+    position: absolute;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000a8;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-32 {
+    position: absolute;
+    top: 1258px;
+    left: 0;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .soft-wash-straight {
+    position: absolute;
+    top: 1258px;
+    left: 407px;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-33 {
+    position: absolute;
+    top: 1258px;
+    left: 814px;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-34 {
+    top: 1255px;
+    left: 326px;
+    font-size: 16px;
+    position: absolute;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-35 {
+    top: 1255px;
+    left: 733px;
+    font-size: 16px;
+    position: absolute;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-36 {
+    top: 1255px;
+    left: 1140px;
+    font-size: 16px;
+    position: absolute;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .line-2 {
+    top: 1745px;
+    left: -9px;
+    width: 244px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+}
+
+.home .our-approach-to {
+    position: absolute;
+    top: 2480px;
+    left: calc(50.00% - 456px);
+    font-family: "Beatrice Deck Trial-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 40px;
+    white-space: nowrap;
+}
+
+.home .rectangle-7 {
+    position: absolute;
+    top: 2804px;
+    left: 403px;
+    width: 317px;
+    height: 419px;
+}
+
+.home .rectangle-8 {
+    position: absolute;
+    top: 2731px;
+    left: 756px;
+    width: 317px;
+    height: 419px;
+}
+
+.home .rectangle-9 {
+    position: absolute;
+    top: 2731px;
+    left: 50px;
+    width: 317px;
+    height: 389px;
+}
+
+.home .rectangle-10 {
+    position: absolute;
+    top: 2834px;
+    left: 1109px;
+    width: 171px;
+    height: 389px;
+    object-fit: cover;
+}
+
+.home .group-11 {
+    position: absolute;
+    top: 912px;
+    left: calc(50.00% - 590px);
+    width: 1327px;
+    height: 1316px;
+}
+
+.home .new-this-week {
+    position: absolute;
+    top: 0;
+    left: calc(50.00% - 664px);
+    font-family: "Beatrice Deck Trial-Extrabold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 2px;
+    line-height: 40px;
+}
+
+.home .group-12 {
+    position: absolute;
+    top: 110px;
+    left: 331px;
+    width: 304px;
+    height: 313px;
+    display: flex;
+    background-image: url(./img/rectangle-17-2.png);
+    background-size: 100% 100%;
+}
+
+.home .group-13 {
+    margin-top: 279px;
+    margin-left: 135px;
+    width: 34px;
+    height: 34px;
+    display: flex;
+    background-color: #dbdbdb70;
+    opacity: 0.66;
+}
+
+.home .vector-10 {
+    flex: 1;
+    width: 13px;
+}
+
+.home .group-14 {
+    position: absolute;
+    top: 110px;
+    left: 0;
+    width: 305px;
+    height: 313px;
+    display: flex;
+    background-image: url(./img/rectangle-18.png);
+    background-size: 100% 100%;
+}
+
+.home .group-15 {
+    margin-top: 279px;
+    margin-left: 136px;
+    width: 34px;
+    height: 34px;
+    display: flex;
+    background-color: #dbdbdb70;
+    opacity: 0.66;
+}
+
+.home .group-16 {
+    position: absolute;
+    top: 110px;
+    left: 661px;
+    width: 304px;
+    height: 313px;
+    display: flex;
+    background-image: url(./img/rectangle-19.png);
+    background-size: 100% 100%;
+}
+
+.home .group-17 {
+    margin-top: 278px;
+    margin-left: 135px;
+    width: 34px;
+    height: 34px;
+    display: flex;
+    background-color: #dbdbdb70;
+    opacity: 0.66;
+}
+
+.home .group-18 {
+    position: absolute;
+    top: 110px;
+    left: 991px;
+    width: 304px;
+    height: 313px;
+}
+
+.home .rectangle-11 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 239px;
+    height: 313px;
+}
+
+.home .group-19 {
+    position: absolute;
+    top: 278px;
+    left: 135px;
+    width: 34px;
+    height: 34px;
+    display: flex;
+    background-color: #dbdbdb70;
+    opacity: 0.66;
+}
+
+.home .group-20 {
+    position: absolute;
+    width: 92px;
+    height: 40px;
+    top: 508px;
+    left: 544px;
+}
+
+.home .text-wrapper-37 {
+    position: absolute;
+    top: 437px;
+    left: 0;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000a8;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-38 {
+    top: 437px;
+    left: 331px;
+    position: absolute;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000a8;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-39 {
+    position: absolute;
+    top: 438px;
+    left: 436px;
+    font-family: "Beatrice Deck Trial-Light", Helvetica;
+    font-weight: 300;
+    color: #000000a8;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-40 {
+    position: absolute;
+    top: 1301px;
+    left: 509px;
+    font-family: "Beatrice Deck Trial-Light", Helvetica;
+    font-weight: 300;
+    color: #000000a8;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-41 {
+    position: absolute;
+    top: 1299px;
+    left: 922px;
+    font-family: "Beatrice Deck Trial-Light", Helvetica;
+    font-weight: 300;
+    color: #000000a8;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-42 {
+    position: absolute;
+    top: 437px;
+    left: 661px;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000a8;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-43 {
+    position: absolute;
+    top: 437px;
+    left: 991px;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000a8;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-44 {
+    position: absolute;
+    top: 458px;
+    left: 0;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .basic-slim-fit-t {
+    position: absolute;
+    top: 458px;
+    left: 331px;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-45 {
+    position: absolute;
+    top: 458px;
+    left: 661px;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-46 {
+    position: absolute;
+    top: 458px;
+    left: 991px;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-47 {
+    top: 456px;
+    left: 279px;
+    font-size: 14px;
+    position: absolute;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-48 {
+    top: 458px;
+    left: 604px;
+    font-size: 14px;
+    text-align: right;
+    position: absolute;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-49 {
+    top: 458px;
+    left: 936px;
+    font-size: 14px;
+    text-align: right;
+    position: absolute;
+    font-family: "Beatrice Deck Trial-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-50 {
+    position: absolute;
+    top: 11px;
+    left: calc(50.00% - 380px);
+    font-family: "Beatrice Deck Trial-Extrabold", Helvetica;
+    font-weight: 400;
+    color: #000d8a;
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 40px;
+    white-space: nowrap;
+}
+
+.home .group-21 {
+    position: absolute;
+    top: 1822px;
+    left: 457px;
+    width: 366px;
+    height: 376px;
+    display: flex;
+    background-image: url(./img/rectangle-14-2.png);
+    background-size: 100% 100%;
+}
+
+.home .group-22 {
+    margin-top: 342px;
+    width: 34px;
+    height: 34px;
+    margin-left: 166px;
+    display: flex;
+    background-color: #dbdbdb70;
+    opacity: 0.66;
+}
+
+.home .rectangle-12 {
+    position: absolute;
+    top: 1822px;
+    left: 50px;
+    width: 366px;
+    height: 376px;
+}
+
+.home .group-23 {
+    position: absolute;
+    top: 1822px;
+    left: 864px;
+    width: 366px;
+    height: 376px;
+    display: flex;
+    background-image: url(./img/rectangle-15-2.png);
+    background-size: 100% 100%;
+}
+
+.home .group-24 {
+    position: absolute;
+    top: 2163px;
+    left: 216px;
+    width: 34px;
+    height: 34px;
+    display: flex;
+    background-color: #dbdbdb70;
+    opacity: 0.66;
+}
+
+.home .p {
+    position: absolute;
+    top: 2533px;
+    left: calc(50.00% - 342px);
+    width: 685px;
+    font-family: "Beatrice Trial-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: normal;
+}
+
+.home .group-25 {
+    position: absolute;
+    top: 55px;
+    left: 622px;
+    width: 35px;
+    height: 35px;
+}
+
+.home .rectangle-13 {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 25px;
+    height: 25px;
+    background-color: #d9d9d9;
+    transform: rotate(45deg);
+}
+
+.home .rectangle-14 {
+    position: absolute;
+    top: 0;
+    left: 18px;
+    width: 18px;
+    height: 35px;
+}
+
+.home .group-26 {
+    position: absolute;
+    width: 2.03%;
+    height: 0;
+    top: 0;
+    left: 4.06%;
+}
+
+.home .vector-11 {
+    position: absolute;
+    width: 102.88%;
+    height: 104.69%;
+    top: -4.69%;
+    left: -2.88%;
+}
+
+.home .vector-12 {
+    position: absolute;
+    width: 102.88%;
+    height: 54.69%;
+    top: 45.31%;
+    left: -2.88%;
+}
+
+.home .vector-13 {
+    position: absolute;
+    width: 102.88%;
+    height: 4.69%;
+    top: 95.31%;
+    left: -2.88%;
+}
+
+.home .rectangle-15 {
+    position: absolute;
+    top: 1351px;
+    left: 472px;
+    width: 12px;
+    height: 12px;
+    background-color: #ffffff;
+    border: 0.5px solid;
+    border-color: #a2a2a2;
+}
+
+.home .rectangle-16 {
+    position: absolute;
+    top: 2214px;
+    left: 545px;
+    width: 12px;
+    height: 12px;
+    background-color: #ffffff;
+    border: 0.5px solid;
+    border-color: #a2a2a2;
+}
+
+.home .rectangle-17 {
+    position: absolute;
+    top: 2212px;
+    left: 958px;
+    width: 12px;
+    height: 12px;
+    background-color: #ffffff;
+    border: 0.5px solid;
+    border-color: #a2a2a2;
+}
+
+.home .text-wrapper-51 {
+    position: absolute;
+    top: 1350px;
+    left: 819px;
+    font-family: "Beatrice Deck Trial-Light", Helvetica;
+    font-weight: 300;
+    color: #000000a8;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-52 {
+    position: absolute;
+    top: 1350px;
+    left: 1169px;
+    font-family: "Beatrice Deck Trial-Light", Helvetica;
+    font-weight: 300;
+    color: #000000a8;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .rectangle-18 {
+    position: absolute;
+    top: 1351px;
+    left: 805px;
+    width: 12px;
+    height: 12px;
+    background-color: #dbdcce;
+    border: 0.5px solid;
+    border-color: #a2a2a2;
+}
+
+.home .rectangle-19 {
+    position: absolute;
+    top: 1351px;
+    left: 1155px;
+    width: 12px;
+    height: 12px;
+    background-color: #eae8d9;
+    border: 0.5px solid;
+    border-color: #a2a2a2;
+}
