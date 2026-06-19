@@ -1,4 +1,4 @@
-import { Star } from "lucide-react";
+import { Star } from "lucide-react";// Отзывы покупателей: слайдер с citation от клиентов.
 
 const reviews = [
   {

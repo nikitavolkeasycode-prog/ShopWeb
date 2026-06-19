@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState } from "react";// Панель доступности: переключатель темы, размер шрифта, контраст, шрифт для дислексии.
 import { Accessibility, Sun, Moon, Type, Contrast, X } from "lucide-react";
 
 export interface A11ySettings {

@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState } from "react";// Модальное окно товара: подробная информация, галерея, выбор цвета/размера, добавление в корзину.
 import { X, Heart, ShoppingBag, Star, ChevronLeft, ChevronRight, Minus, Plus, Share2 } from "lucide-react";
 
 export interface Product {

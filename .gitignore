@@ -1,3 +1,15 @@
 node_modules
 dist
 .vite
+
+# Deploy scripts and archives
+deploy.bat
+deploy.ps1
+deploy.zip
+upload.bat
+*.zip
+*.rar
+
+# Build outputs
+build/
+out/

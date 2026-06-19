@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState } from "react";// Баннер программы лояльности: бонусные баллы и промокоды для постоянных клиентов.
 import { Gift, Copy, Check, Star, Trophy, Zap } from "lucide-react";
 
 const promoCodes = [

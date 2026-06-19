@@ -1,23 +1,26 @@
+<!-- Главный HTML-файл.
+     Здесь задаётся точка входа #root, к которому примонтируется React-приложение.
+     Подключаются шрифты и базовые META-теги. -->
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>VOILÀ — интернет-магазин одежды</title>
+    <meta name="description" content="Интернет-магазин модной одежды VOILÀ. Стильные коллекции для женщин и мужчин." />
+    <meta name="robots" content="index, follow" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <style>html, body { height: 100%; margin: 0; } #root { height: 100%; }</style>
+    
+  </head>
 
-  <!DOCTYPE html>
-  <html lang="en">
-    <head>
-      
-      <meta charset="UTF-8" />
-      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <title>E-commerce UI Kit</title>
-      <meta name="description" content="An intuitive e-commerce platform for fashion retailers to showcase and sell clothing collections with seamless browsing and secure checkout." />
-      <meta name="robots" content="noindex, nofollow" />
-      <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-      <style>html, body { height: 100%; margin: 0; } #root { height: 100%; }</style>
-      
-    </head>
-
-    <body>
-      
-      <div id="root"></div>
-      <script type="module" src="/src/main.tsx"></script>
-      
-    </body>
-  </html>
-  
+  <body>
+    
+    <!-- Корневой элемент, в который React рендерит интерфейс -->
+    <div id="root"></div>
+    <!-- Точка входа в JS-приложение -->
+    <script type="module" src="/src/main.tsx"></script>
+    
+  </body>
+</html>

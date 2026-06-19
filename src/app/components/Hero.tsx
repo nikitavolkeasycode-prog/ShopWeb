@@ -1,4 +1,4 @@
-import { ArrowRight } from "lucide-react";
+import { ArrowRight } from "lucide-react";// Главный экран (hero section): крупный баннер без сложной логики.
 
 export function Hero() {
   return (

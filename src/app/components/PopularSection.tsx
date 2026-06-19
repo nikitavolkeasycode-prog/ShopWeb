@@ -1,4 +1,4 @@
-import { TrendingUp, ShoppingBag, Star } from "lucide-react";
+import { TrendingUp, ShoppingBag, Star } from "lucide-react";// Секция популярных товаров: горизонтальный скролл карточек.
 import type { Product } from "./ProductModal";
 
 const popularBrands = [

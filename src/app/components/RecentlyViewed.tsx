@@ -1,4 +1,4 @@
-import { ShoppingBag, Star } from "lucide-react";
+import { ShoppingBag, Star } from "lucide-react";// Секция «Вы недавно смотрели»: показывает последние просмотренные товары.
 import type { Product } from "./ProductModal";
 
 interface RecentlyViewedProps {

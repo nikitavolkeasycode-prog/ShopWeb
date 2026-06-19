@@ -1,4 +1,6 @@
 .home {
+/* Глобальные стили и utility-классы.
+   Используются вAuthModal.tsx и некоторых других компонентах. */
     background-color: #ffffff;
     overflow: hidden;
     width: 100%;

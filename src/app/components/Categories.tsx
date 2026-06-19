@@ -1,4 +1,4 @@
-const categories = [
+const categories = [// Секция категорий: плитка с крупными ссылками на коллекции (женщинам, мужчинам и т.д.).
   {
     label: "Women",
     sub: "1,240 items",

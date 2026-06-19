@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState } from "react";// Боковая панель фильтров: категории, цена, размеры, цвета, сортировка.
 import { ChevronDown, ChevronUp, X, SlidersHorizontal } from "lucide-react";
 
 const categories = ["Women", "Men", "Kids", "Accessories"];

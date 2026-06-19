@@ -1,4 +1,4 @@
-import { Instagram, Twitter, Facebook, Youtube } from "lucide-react";
+import { Instagram, Twitter, Facebook, Youtube } from "lucide-react";// Подвал сайта: ссылки, контакты, социальные сети, копирайт.
 
 const footerLinks = {
   "Shop": ["New Arrivals", "Women", "Men", "Kids", "Accessories", "Sale"],

@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState } from "react";// Сетка товаров с фильтрами по категориям.
 import { Heart, ShoppingBag, Star } from "lucide-react";
 
 const products = [

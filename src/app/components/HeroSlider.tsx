@@ -1,6 +1,7 @@
+// Главный баннер (hero slider) на главной странице.
+// Автоматически меняет слайды с товарами/акциями, содержит текст и кнопку CTA.
 import { useState, useEffect, useCallback } from "react";
 import { ArrowLeft, ArrowRight } from "lucide-react";
-
 const slides = [
   {
     id: 1,

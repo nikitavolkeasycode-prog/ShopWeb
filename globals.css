@@ -1,4 +1,6 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+/* Глобальные CSS-переменные и сброс стилей.
+   Определяет цвета, шрифты и базовые отступы для всей темы. */
 * {
     -webkit-font-smoothing: antialiased;
     box-sizing: border-box;
